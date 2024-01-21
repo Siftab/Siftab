@@ -1,7 +1,7 @@
 [![MasterHead](https://media.licdn.com/dms/image/D5616AQHhtw19sNHx3w/profile-displaybackgroundimage-shrink_200_800/0/1687238599992?e=2147483647&v=beta&t=JlpBZnwgI-lClKHjjI2pDFznQXF6jg-IOnniJqU1KMI)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Zahid Hossain Sifat</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh 🇧🇩</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://www.icegif.com/wp-content/uploads/2023/05/icegif-567.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siftab&label=Profile%20views&color=0e75b6&style=flat" alt="siftab" /> </p>
 
 <p align="left"> <a href="https://twitter.com/zahid hossain sifat" target="blank"><img src="https://img.shields.io/twitter/follow/zahid hossain sifat?logo=twitter&style=for-the-badge" alt="zahid hossain sifat" /></a> </p>
