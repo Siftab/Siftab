@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/zahid hossain sifat" target="blank"><img src="https://img.shields.io/twitter/follow/zahid hossain sifat?logo=twitter&style=for-the-badge" alt="zahid hossain sifat" /></a> </p>
 
-- 🌱 I’m currently learning **Jwt,Express**
+- 🌱 I’m currently learning **NExt js**
 
 - 💬 Ask me about **react,mern .**
 
