@@ -1,7 +1,7 @@
 [![MasterHead](https://media.licdn.com/dms/image/D5616AQHhtw19sNHx3w/profile-displaybackgroundimage-shrink_200_800/0/1687238599992?e=2147483647&v=beta&t=JlpBZnwgI-lClKHjjI2pDFznQXF6jg-IOnniJqU1KMI)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Zahid Hossain Sifat</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh 🇧🇩</h3>
-<img align="right" alt="Coding" width="400" src="https://www.icegif.com/wp-content/uploads/2023/05/icegif-567.gif">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/4731830c5b68469804a600bb6034a888465dc49deb9c8e8fc6e068fba0cd0d50/68747470733a2f2f74342e667463646e2e6e65742f6a70672f30332f31332f34302f34352f3336305f465f3331333430343534315f6539595a33706874366f45456b4d5875687854626f71584132423253684e6e432e6a7067">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siftab&label=Profile%20views&color=0e75b6&style=flat" alt="siftab" /> </p>
 
 <p align="left"> <a href="https://twitter.com/zahid hossain sifat" target="blank"><img src="https://img.shields.io/twitter/follow/zahid hossain sifat?logo=twitter&style=for-the-badge" alt="zahid hossain sifat" /></a> </p>
@@ -13,6 +13,7 @@
 - 📫 How to reach me **siiffuuu@gmial.com**
 
 - ⚡ Fun fact **My code will toast your brain**
+- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
