@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **react,mern .**
 
-- 📫 How to reach me **siiffuuu@gmial.com**
+- 📫 How to reach me **zahidhossainsifat@gmail.com**
 
 - ⚡ Fun fact **My code will toast your brain**
 - 
