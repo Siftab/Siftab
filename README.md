@@ -1,7 +1,7 @@
 [![MasterHead](https://i.ibb.co/56cjJvZ/octocat-primed.png)](https://github.com/siftab)
 <h1 align="center">Hi 👋, I'm Zahid Hossain Sifat</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh 🇧🇩</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/4731830c5b68469804a600bb6034a888465dc49deb9c8e8fc6e068fba0cd0d50/68747470733a2f2f74342e667463646e2e6e65742f6a70672f30332f31332f34302f34352f3336305f465f3331333430343534315f6539595a33706874366f45456b4d5875687854626f71584132423253684e6e432e6a7067">
+<img align="right" alt="Coding" width="450" height="300" src="https://i.ibb.co.com/bzRKvfc/1-ya2mnut-AJh-Cz-Bwh-KTtv7-AQ.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=siftab&label=Profile%20views&color=0e75b6&style=flat" alt="siftab" /> </p>
 
 <p align="left"> <a href="https://twitter.com/zahid hossain sifat" target="blank"><img src="https://img.shields.io/twitter/follow/zahid hossain sifat?logo=twitter&style=for-the-badge" alt="zahid hossain sifat" /></a> </p>
